@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-</head>
-
-<body>
-    <p align="center">
+ <p align="center">
         <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
     </p>
     <h1 align="center">Hi 👋, I'm Ahmad Frontend-Web-developer</h1>
@@ -120,6 +110,3 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadtahir1399&"
             alt="ahmadtahir1399" />
     </p>
-</body>
-
-</html>
