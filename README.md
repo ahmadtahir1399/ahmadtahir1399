@@ -8,13 +8,9 @@
 
    <br/>  <br/>
 
-- 🔭 I'm currently working on [Medium Clone](https://ahmad-medium-clone.vercel.app/)
+- 🌱 I'm currently learning **Backend**
 
-- 🌱 I'm currently learning **Next js**
-
-- 👨‍💻 All of my projects are available at [https://ahmad-potfolio.vercel.app/](https://ahmad-potfolio.vercel.app/)
-
-- 💬 Ask me about **React js**
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **⚡ Fun fact I think I am a little bit childish 😅**
   <br/>  <br/>  <br/>
