@@ -56,7 +56,7 @@
 | [**MegaBlog**](https://github.com/ahmadtahir1399/MegaBlog) | Blogging platform with a rich-text editor, auth and post management | React · Redux Toolkit · Appwrite · TinyMCE | [Demo ↗](https://mega-blog-zeta.vercel.app) |
 | [**React Todo App**](https://github.com/ahmadtahir1399/react-todo-app) | Animated todo app with smooth transitions | React · Framer Motion · Tailwind | [Demo ↗](https://react-js-to-do-app-one.vercel.app) |
 | [**JS E-Commerce Store**](https://github.com/ahmadtahir1399/vanilla-js-ecommerce-store) | Storefront with a product catalog and cart, built without frameworks | HTML · CSS · JavaScript | n/a |
-| [**Node.js Bootcamp**](https://github.com/ahmadtahir1399/nodejs-bootcamp-notes) | My path through Node.js, async JS and Express | Node.js · Express · MongoDB | n/a |
+| [**Node.js Bootcamp**](https://github.com/ahmadtahir1399/nodejs-bootcamp-notes) | My Node.js bootcamp notes: core modules, the event loop and async JS | Node.js · JavaScript | n/a |
 
 ---
 
