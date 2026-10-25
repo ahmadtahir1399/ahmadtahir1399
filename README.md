@@ -51,10 +51,10 @@
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| [**Todovex**](https://github.com/ahmadtahir1399/Todovex) | Full-stack task manager with auth and a real-time database | Next.js · TypeScript · Convex · NextAuth · shadcn/ui | [Demo ↗](https://todovex-ai.vercel.app) |
-| [**StoreIt**](https://github.com/ahmadtahir1399/storeit-cloud-storage) | Google Drive–style file storage and sharing app with OTP login | Next.js · TypeScript · Appwrite · Recharts | [Demo ↗](https://drive-tool-plum.vercel.app) |
+| [**Todovex**](https://github.com/ahmadtahir1399/Todovex) | Full-stack task manager with auth and a real-time database | Next.js · TypeScript · Convex · NextAuth · shadcn/ui | n/a |
+| [**StoreIt**](https://github.com/ahmadtahir1399/storeit-cloud-storage) | Google Drive–style file storage and sharing app with OTP login | Next.js · TypeScript · Appwrite · Recharts | n/a |
 | [**MegaBlog**](https://github.com/ahmadtahir1399/MegaBlog) | Blogging platform with a rich-text editor, auth and post management | React · Redux Toolkit · Appwrite · TinyMCE | [Demo ↗](https://mega-blog-zeta.vercel.app) |
-| [**React Todo App**](https://github.com/ahmadtahir1399/react-todo-app) | Animated todo app with smooth transitions | React · Framer Motion · Tailwind | [Demo ↗](https://react-js-to-do-app-one.vercel.app) |
+| [**React Todo App**](https://github.com/ahmadtahir1399/react-todo-app) | Animated todo app with smooth transitions | React · Framer Motion · Tailwind | n/a |
 | [**JS E-Commerce Store**](https://github.com/ahmadtahir1399/vanilla-js-ecommerce-store) | Storefront with a product catalog and cart, built without frameworks | HTML · CSS · JavaScript | n/a |
 | [**Node.js Bootcamp**](https://github.com/ahmadtahir1399/nodejs-bootcamp-notes) | My Node.js bootcamp notes: core modules, the event loop and async JS | Node.js · JavaScript | n/a |
 
