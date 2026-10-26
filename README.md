@@ -1,4 +1,4 @@
-<a href="https://ahmadverse.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Ahmad Tahir — Full-stack web developer, available for freelance worldwide" /></a>
+<a href="https://ahmadverse.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Ahmad Tahir — Full-stack AI engineer, available for freelance worldwide" /></a>
 
 <p align="center">
   <a href="https://ahmadverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a85ed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -9,7 +9,7 @@
 </p>
 
 <p><img src="assets/heading-about.svg" width="100%" alt="(01) About me" /></p>
-<p><img src="assets/about.svg" width="100%" alt="Full-stack web developer from Lahore, Pakistan. Frontend: Next.js, React, TypeScript, Tailwind. Backend: Convex, Appwrite, Firebase, Supabase, Node.js. Learning backend architecture and LLM engineering. Open to freelance and collaborations." /></p>
+<p><img src="assets/about.svg" width="100%" alt="Full-stack AI engineer from Lahore, Pakistan. Frontend: Next.js, React, TypeScript, Tailwind. Backend: Convex, Appwrite, Firebase, Supabase, Node.js. Learning backend architecture and LLM engineering. Open to freelance and collaborations." /></p>
 
 <p><img src="assets/heading-stack.svg" width="100%" alt="(02) Tech stack" /></p>
 <p align="center">
