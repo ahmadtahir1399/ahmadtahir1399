@@ -1,12 +1,17 @@
-# Ahmad Tahir
+<a href="https://ahmadverse.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Ahmad Tahir — Full-stack AI engineer, available for freelance worldwide" /></a>
 
-Full-stack AI engineer from Lahore, Pakistan. I build web products end to end with Next.js, TypeScript and Supabase, and I like putting LLMs to work on real problems: reviewing a thesis, explaining a market, coaching someone's spoken English.
+<p align="center">
+  <a href="https://ahmadverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a85ed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-ai-fullstack-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0c63e7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ahmadtahir1399"><img src="https://img.shields.io/badge/X-1c1d20?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/xyz_ahmadd/"><img src="https://img.shields.io/badge/Instagram-1c1d20?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-I freelance for clients worldwide. I'm also building a few open-source projects, and they'll replace the client work below as they ship.
+Hey, I'm Ahmad. I build web products end to end with Next.js, TypeScript and Supabase, and I like putting LLMs to work on real problems: reviewing a thesis, explaining a market, coaching someone's spoken English.
 
-[Portfolio](https://ahmadverse.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmad-ai-fullstack-engineer/) · [X](https://twitter.com/ahmadtahir1399)
+I freelance for clients worldwide. I'm also building a few open-source projects, and they'll take over this page as they ship.
 
-## Recent work
+<p><img src="assets/heading-work.svg" width="100%" alt="(01) Selected work" /></p>
 
 <table>
 <tr>
@@ -93,13 +98,22 @@ Things I built while learning, before the client work:
 </tr>
 </table>
 
-## What I work with
+<p><img src="assets/heading-stack.svg" width="100%" alt="(02) Tech stack" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,py,fastapi,supabase,postgres,mongodb,firebase,appwrite,redux,git,github,vercel,aws,docker,figma&perline=10&theme=dark" alt="Next.js, React, TypeScript, Tailwind, Node.js, NestJS, Python, FastAPI, Supabase, PostgreSQL, MongoDB, Firebase, Appwrite, Redux, Git, GitHub, Vercel, AWS, Docker, Figma" />
+</p>
+<p align="center"><sub>Plus OpenAI, Groq (Whisper and LLMs), Convex, Stripe and GetStream</sub></p>
 
-**Frontend:** Next.js, React, TypeScript, Tailwind<br />
-**Backend and data:** Supabase, PostgreSQL, Convex, MongoDB, NestJS, FastAPI<br />
-**AI:** OpenAI, Groq (Whisper and LLMs)<br />
-**Payments and infra:** Stripe, Vercel, AWS
+<p><img src="assets/heading-activity.svg" width="100%" alt="(03) Activity" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmadtahir1399&hide_border=true&border_radius=22&background=0a0a0a&ring=0a85ed&fire=0c63e7&currStreakLabel=0a85ed&currStreakNum=fcfaf8&sideNums=fcfaf8&sideLabels=a1a1a1&dates=5c5c5c&stroke=1c1d20" width="100%" alt="GitHub contribution streak" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadtahir1399/ahmadtahir1399/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadtahir1399/ahmadtahir1399/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ahmadtahir1399/ahmadtahir1399/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
 
-## Get in touch
-
-I'm open to freelance work. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/ahmad-ai-fullstack-engineer/) or the [contact page](https://ahmadverse.vercel.app/contact) on my portfolio.
+<a href="https://ahmadverse.vercel.app/contact"><img src="assets/footer.svg" width="100%" alt="Let's work together — get in touch" /></a>
