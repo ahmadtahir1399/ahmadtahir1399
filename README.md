@@ -9,9 +9,68 @@
 
 Hey, I'm Ahmad. I build web products end to end with Next.js, TypeScript and Supabase, and I like putting LLMs to work on real problems: reviewing a thesis, explaining a market, coaching someone's spoken English.
 
-I freelance for clients worldwide. I'm also building a few open-source projects, and they'll take over this page as they ship.
+I freelance for clients worldwide, and I publish some of my projects as open source.
 
-<p><img src="assets/heading-work.svg" width="100%" alt="(01) Selected work" /></p>
+<p><img src="assets/heading-opensource.svg" width="100%" alt="(01) Open source" /></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/Dueloop">Dueloop</a></h3>
+Follows up unpaid invoices for small businesses. It sends polite reminders by email or WhatsApp, reads the replies, records promises and disputes, and keeps a ledger. A person approves what it proposes.
+<br /><br />
+<sub>Next.js · TypeScript · Supabase · Docker</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/Dueloop">Code</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/pre-renewal-autopilot">Pre-Renewal Autopilot</a></h3>
+A night-shift assistant for insurance brokers. It reads the expiring policy and the renewal offer, compares the terms, and leaves a spreadsheet and two draft emails ready for approval. It never sends anything itself.
+<br /><br />
+<sub>TypeScript · OpenAI · pdf.js · SQLite · grammY</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/pre-renewal-autopilot">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/orrery">Orrery</a></h3>
+A self-hosted issue tracker with Linear-style speed and Jira-style depth. Bring your own OpenAI or Anthropic key, or keep AI off and use the built-in planner. Built on TaskNebula.
+<br /><br />
+<sub>Next.js · TypeScript · PostgreSQL · Redis · Drizzle</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/orrery">Code</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/scriptor">Scriptor</a></h3>
+The full source of my AI thesis supervisor: the academic checks, the scoring and the highlights drawn over the PDF.
+<br /><br />
+<sub>Next.js 16 · TypeScript · Supabase · OpenAI · pdf.js</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/scriptor">Code</a> · <a href="https://scriptor-papercheak.vercel.app/">Live</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/ahmadverse-portfolio">Ahmadverse</a></h3>
+The code behind my portfolio: GSAP and Motion animation, case study pages and a contact form through Resend.
+<br /><br />
+<sub>Next.js · TypeScript · Tailwind · GSAP · Motion</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/ahmadverse-portfolio">Code</a> · <a href="https://ahmadverse.vercel.app/">Live</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ahmadtahir1399/ecommerce">E-commerce storefront</a></h3>
+A product page and cart: gallery, size and color options, reviews with validation and a slide-out cart.
+<br /><br />
+<sub>Next.js · TypeScript · Tailwind · shadcn/ui</sub>
+<br />
+<a href="https://github.com/ahmadtahir1399/ecommerce">Code</a>
+</td>
+</tr>
+</table>
+
+<p><img src="assets/heading-work.svg" width="100%" alt="(02) Selected work" /></p>
 
 <table>
 <tr>
@@ -22,7 +81,7 @@ An AI thesis supervisor. It reads a student's PDF, runs academic checks across i
 <br /><br />
 <sub>Next.js 16 · TypeScript · Supabase · OpenAI · pdf.js</sub>
 <br />
-<a href="https://scriptor-papercheak.vercel.app/">Live</a> · <a href="https://ahmadverse.vercel.app/work/scriptor">Case study</a>
+<a href="https://scriptor-papercheak.vercel.app/">Live</a> · <a href="https://ahmadverse.vercel.app/work/scriptor">Case study</a> · <a href="https://github.com/ahmadtahir1399/scriptor">Code</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://ahmadverse.vercel.app/work/droneconnect"><img src="https://ahmadverse.vercel.app/_next/image?url=%2Fprojects%2Fdroneconnect%2Fdroneconnect-drone-services-marketplace-homepage.jpg&w=828&q=75" alt="DroneConnect homepage" /></a>
@@ -98,13 +157,13 @@ Things I built while learning, before the client work:
 </tr>
 </table>
 
-<p><img src="assets/heading-stack.svg" width="100%" alt="(02) Tech stack" /></p>
+<p><img src="assets/heading-stack.svg" width="100%" alt="(03) Tech stack" /></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,nestjs,py,fastapi,supabase,postgres,mongodb,firebase,appwrite,redux,git,github,vercel,aws,docker,figma&perline=10&theme=dark" alt="Next.js, React, TypeScript, Tailwind, Node.js, NestJS, Python, FastAPI, Supabase, PostgreSQL, MongoDB, Firebase, Appwrite, Redux, Git, GitHub, Vercel, AWS, Docker, Figma" />
 </p>
 <p align="center"><sub>Plus OpenAI, Groq (Whisper and LLMs), Convex, Stripe and GetStream</sub></p>
 
-<p><img src="assets/heading-activity.svg" width="100%" alt="(03) Activity" /></p>
+<p><img src="assets/heading-activity.svg" width="100%" alt="(04) Activity" /></p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmadtahir1399&hide_border=true&border_radius=22&background=0a0a0a&ring=0a85ed&fire=0c63e7&currStreakLabel=0a85ed&currStreakNum=fcfaf8&sideNums=fcfaf8&sideLabels=a1a1a1&dates=5c5c5c&stroke=1c1d20" width="100%" alt="GitHub contribution streak" />
 </p>
