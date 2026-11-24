@@ -115,15 +115,6 @@ Real-time spoken-English coaching. You talk, Groq Whisper transcribes it instant
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://ahmadverse.vercel.app/work/bashbop"><img src="https://ahmadverse.vercel.app/_next/image?url=%2Fprojects%2Fbashbop%2Fbashbop-event-marketplace-homepage.jpg&w=828&q=75" alt="Bashbop homepage" /></a>
-<h3>Bashbop</h3>
-An event marketplace for creating, running and monetizing in-person and virtual events, with vendors, Stripe Connect payouts and live streaming. I owned the Next.js frontend in a small team.
-<br /><br />
-<sub>Next.js · TypeScript · NestJS · MongoDB · GetStream · Stripe Connect</sub>
-<br />
-<a href="https://bashbop.com/">Live</a> · <a href="https://ahmadverse.vercel.app/work/bashbop">Case study</a>
-</td>
-<td width="50%" valign="top">
 <a href="https://ahmadverse.vercel.app/work/flex-fit"><img src="https://ahmadverse.vercel.app/_next/image?url=%2Fprojects%2Fflex-fit%2Fflex-fit-gym-website-homepage.jpg&w=828&q=75" alt="Flex Fit homepage" /></a>
 <h3>Flex Fit</h3>
 The first website for a Lahore gym with 500+ members: trainers, classes, branches and memberships, plus a supplements store backed by Supabase.
@@ -132,8 +123,6 @@ The first website for a Lahore gym with 500+ members: trainers, classes, branche
 <br />
 <a href="https://flexfit-pk.vercel.app/">Live</a> · <a href="https://ahmadverse.vercel.app/work/flex-fit">Case study</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://ahmadverse.vercel.app/work/lunarisflow"><img src="https://ahmadverse.vercel.app/_next/image?url=%2Fprojects%2Flunarisflow%2Flunarisflow-landing-page-rebuild-homepage.jpg&w=828&q=75" alt="Lunarisflow homepage" /></a>
 <h3>Lunarisflow</h3>
@@ -143,6 +132,8 @@ A full rebuild of a slow, dated SaaS landing page as a fast, responsive Next.js 
 <br />
 <a href="https://lunarisflow.com/">Live</a> · <a href="https://ahmadverse.vercel.app/work/lunarisflow">Case study</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3>Older projects on GitHub</h3>
 Things I built while learning, before the client work:
